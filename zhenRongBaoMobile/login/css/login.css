@@ -1,0 +1,166 @@
+body {
+  font-family: arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-size: 0.4375rem;
+  background: #fff;
+  color: #444;
+}
+.header {
+  width: 100%;
+  height: 1.59375rem;
+  background: #fff;
+}
+.header a {
+  position: relative;
+}
+.header a img {
+  height: 0.9375rem;
+  position: absolute;
+  top: 0.3125rem;
+  left: 0.3125rem;
+}
+.nav {
+  float: right;
+  width: 3.4375rem;
+  height: 100%;
+}
+.nav li {
+  float: left;
+  height: 1.5625rem;
+  line-height: 1.5625rem;
+  padding: 0 0.15625rem;
+}
+.nav li a {
+  color: #686868;
+  display: block;
+  height: 100%;
+  padding: 0 0.15625rem;
+}
+.main {
+  background: #fff;
+  box-sizing: border-box;
+  border-top: 1px solid #f3f3f3;
+}
+.main .base {
+  margin: 0 0.625rem;
+  padding: 0.3125rem 0;
+}
+.main .login-header {
+  height: 1.25rem;
+  line-height: 1.25rem;
+  text-align: center;
+  color: #0a9de2;
+  font-size: 0.5625rem;
+}
+.main .login-content {
+  padding: 0.3125rem 0;
+}
+.main .login-content .tip {
+  line-height: 0.78125rem;
+  padding-left: 0.625rem;
+  color: #ff5262;
+  background: url("../images/error-icon.png") no-repeat 0 center;
+  background-size: 0.46875rem 0.46875rem;
+  display: none;
+}
+.main .input-wrap {
+  line-height: 0.625rem;
+  position: relative;
+  height: 1.5625rem;
+  border-bottom: 1px solid #ddd;
+  padding: 0.46875rem 0;
+  box-sizing: border-box;
+}
+.main .input-wrap i {
+  height: 100%;
+  width: 0.5rem;
+  position: absolute;
+  top: 0;
+}
+.main .input-wrap .i1 {
+  left: 0;
+  background: url("../images/phone.png") no-repeat center;
+  background-size: 80%;
+}
+.main .input-wrap .i2 {
+  left: 0;
+  background: url("../images/mima.png") no-repeat center;
+  background-size: 0.46875rem 0.625rem;
+}
+.main .input-wrap input {
+  box-sizing: border-box;
+  width: 100%;
+  height: 0.59375rem;
+  line-height: 0.59375rem;
+  border: 0 none;
+  padding-left: 0.9375rem;
+  font-size: 0.4375rem;
+}
+.main .input-wrap .del {
+  position: absolute;
+  width: 0.46875rem;
+  background: url("../images/delete.png") no-repeat center;
+  background-size: 100% 0.46875rem;
+  top: 0;
+  right: 0;
+  display: none;
+}
+.main .input-wrap .del2 {
+  right: 0.9375rem;
+}
+.main .input-wrap .eye {
+  right: 0;
+  width: 0.65625rem;
+  background: url("../images/eye_63b5526.png") no-repeat center;
+  background-size: 100% 0.21875rem;
+}
+.main .input-wrap .eye-active {
+  background: url("../images/eye-active.png") no-repeat center;
+  background-size: 100% 0.3125rem;
+}
+.main .to-forget {
+  width: 100%;
+  font-size: 0.40625rem;
+  margin-top: 0.3125rem;
+}
+.main .to-forget .login {
+  float: left;
+  color: #ff5262;
+}
+.main .to-forget .forget {
+  float: right;
+}
+.main .btn {
+  display: block;
+  margin: 1.25rem auto 0.625rem;
+  width: 8.125rem;
+  height: 1.25rem;
+  line-height: 1.25rem;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 0.46875rem;
+  text-align: center;
+  background: #0a9de2;
+  border-radius: 0.625rem;
+}
+.footer {
+  width: 100%;
+  height: 1.1875rem;
+  padding: 1px 0;
+  background: #fff;
+  margin-top: 5.3125rem;
+  border-top: 1px solid #e7e7e7;
+  border-bottom: 1px solid #f8f8f8;
+}
+.footer .footer-content {
+  height: 1.1875rem;
+  text-align: center;
+}
+.footer .footer-content a {
+  color: #000;
+  font-size: 0.375rem;
+  line-height: 1.1875rem;
+}
+.footer .footer-content span {
+  margin: 0 0.125rem;
+  color: #000;
+}

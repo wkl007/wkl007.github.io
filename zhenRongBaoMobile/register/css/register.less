@@ -1,0 +1,213 @@
+body{
+  font-family: arial,"Hiragino Sans GB","Microsoft YaHei","WenQuanYi Micro Hei",sans-serif;
+  font-size: 14/32rem;
+  background: #fff;
+  color: #444;
+}
+//头部
+.header{
+  width: 100%;
+  height: 51/32rem;
+  background: #fff;
+}
+.header a{
+  position: relative;
+}
+.header a img{
+  height: 30/32rem;
+  position: absolute;
+  top: 10/32rem;
+  left: 10/32rem;
+}
+.nav{
+  float: right;
+  width: 110/32rem;
+  height: 100%;
+}
+.nav li{
+  float: left;
+  height: 50/32rem;
+  line-height: 50/32rem;
+  padding:  0 5/32rem;
+}
+.nav li a{
+  color: #686868;
+  display: block;
+  height: 100%;
+  padding: 0 5/32rem;
+}
+//主体
+.main{
+  width: 100%;
+}
+.main .step-container{
+  padding: 0 20/32rem 10/32rem;
+}
+.main .step-container .title{
+  height: 45/32rem;
+  line-height: 45/32rem;
+  font-size: 15/32rem;
+  text-align: center;
+}
+.main .step-container .tip{
+  font-size: 13/32rem;
+  padding: 10/32rem 0 5/32rem;
+  color: #ff5262;
+  display: none;
+}
+.main .step-container .input-wrap{
+  line-height: 20/32rem;
+  position: relative;
+  height: 50/32rem;
+  border-bottom: 1px solid #ddd;
+  padding: 15/32rem 0;
+  box-sizing: border-box;
+}
+.main .step-container .input-wrap i{
+  height: 100%;
+  width: 16/32rem;
+  position: absolute;
+  top: 0;
+}
+.main .step-container .input-wrap .i1{
+  left: 0;
+  background: url("../images/phone.png") no-repeat center;
+  background-size: 80%;
+}
+.main .step-container .input-wrap .i2{
+  left: 0;
+  background: url("../images/qcode.png") no-repeat center;
+  background-size: 16/32rem 15/32rem;
+}
+.main .step-container .input-wrap .i3{
+   left: 0;
+   background: url("../images/mima.png") no-repeat center;
+  background-size: 15/32rem 20/32rem;
+ }
+.main .step-container .input-wrap .i4{
+  left: 0;
+  background: url("../images/haoyou.png") no-repeat center;
+  background-size: 16/32rem 18/32rem;
+}
+.main .step-container .input-wrap input{
+  box-sizing: border-box;
+  width: 100%;
+  height: 19/32rem;
+  line-height: 19/32rem;
+  border: 0 none;
+  padding-left: 30/32rem;
+  font-size: 14/32rem;
+}
+.main .step-container .recom-wrap{
+  display: none;
+}
+.main .step-container .input-wrap .phonecode{
+  width: 51%;
+}
+.main .input-wrap .del{
+  position: absolute;
+  width: 15/32rem;
+  background: url("../images/delete.png") no-repeat center;
+  background-size: 100% 15/32rem;
+  top: 0;
+  right: 0;
+  display: none;
+}
+.main .input-wrap .del2{
+  right: 25/32rem;
+}
+.main .input-wrap .eye{
+  right: 0;
+  width: 21/32rem;
+  background: url("../images/eye_63b5526.png") no-repeat center;
+  background-size: 100% 7/32rem;
+}
+.main .input-wrap .eye-active{
+  background: url("../images/eye-active.png") no-repeat center;
+  background-size: 100% 10/32rem;
+}
+.main .input-wrap .getcode{
+  display: inline-block;
+  width: 49%;
+  height: 40/32rem;
+  line-height: 40/32rem;
+  border-radius: 4/32rem;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  margin-top: -20/32rem;
+  background: #ff5262;
+  color: #fff;
+  text-align: center;
+  font-size: 16/32rem;
+}
+.main .recom{
+  margin-top: 15/32rem;
+}
+.main .recom .arrow{
+  display: block;
+  width: 14/32rem;
+  height: 8/32rem;
+ margin-top: 5/32rem;
+  background: url("../images/arrow.png") no-repeat center;
+  background-size: 100%;
+  transition: .1s;
+  float: right;
+}
+.main .recom .active{
+  transform: rotate(180deg);
+}
+.main .protocol{
+  width: 100%;
+  height: 50/32rem;
+  line-height: 50/32rem;
+}
+.main .protocol input{
+  width: 13/32rem;
+  height: 13/32rem;
+}
+.main .btn-container{
+  padding: 25/32rem 0;
+}
+.main .btn-container .btn{
+  display: block;
+  margin: 0 auto;
+  box-sizing: border-box;
+  width:260/32rem;
+  height: 42/32rem;
+  line-height: 42/32rem;
+  border-radius: 21/32rem;
+  text-align: center;
+  font-size: 16/32rem;
+  background: #bbb;
+  color: #fff;
+}
+.main .btn-container .active{
+  background: #0a9de2;
+}
+  //尾部
+.footer{
+  width: 100%;
+  height: 38/32rem;
+  padding: 1px 0;
+  background: #fff;
+  margin-top: 170/32rem;
+  //position: fixed;
+  //left: 0;
+  //bottom: 0;
+  border-top: 1px solid #e7e7e7;
+  border-bottom: 1px solid #f8f8f8;
+}
+.footer .footer-content{
+  height: 38/32rem;
+  text-align: center;
+}
+.footer .footer-content a{
+  color: #000;
+  font-size: 12/32rem;
+  line-height: 38/32rem;
+}
+.footer .footer-content span{
+  margin: 0 4/32rem;
+  color: #000;
+}

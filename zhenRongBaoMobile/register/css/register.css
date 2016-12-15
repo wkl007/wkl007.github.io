@@ -1,0 +1,207 @@
+body {
+  font-family: arial, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  font-size: 0.4375rem;
+  background: #fff;
+  color: #444;
+}
+.header {
+  width: 100%;
+  height: 1.59375rem;
+  background: #fff;
+}
+.header a {
+  position: relative;
+}
+.header a img {
+  height: 0.9375rem;
+  position: absolute;
+  top: 0.3125rem;
+  left: 0.3125rem;
+}
+.nav {
+  float: right;
+  width: 3.4375rem;
+  height: 100%;
+}
+.nav li {
+  float: left;
+  height: 1.5625rem;
+  line-height: 1.5625rem;
+  padding: 0 0.15625rem;
+}
+.nav li a {
+  color: #686868;
+  display: block;
+  height: 100%;
+  padding: 0 0.15625rem;
+}
+.main {
+  width: 100%;
+}
+.main .step-container {
+  padding: 0 0.625rem 0.3125rem;
+}
+.main .step-container .title {
+  height: 1.40625rem;
+  line-height: 1.40625rem;
+  font-size: 0.46875rem;
+  text-align: center;
+}
+.main .step-container .tip {
+  font-size: 0.40625rem;
+  padding: 0.3125rem 0 0.15625rem;
+  color: #ff5262;
+  display: none;
+}
+.main .step-container .input-wrap {
+  line-height: 0.625rem;
+  position: relative;
+  height: 1.5625rem;
+  border-bottom: 1px solid #ddd;
+  padding: 0.46875rem 0;
+  box-sizing: border-box;
+}
+.main .step-container .input-wrap i {
+  height: 100%;
+  width: 0.5rem;
+  position: absolute;
+  top: 0;
+}
+.main .step-container .input-wrap .i1 {
+  left: 0;
+  background: url("../images/phone.png") no-repeat center;
+  background-size: 80%;
+}
+.main .step-container .input-wrap .i2 {
+  left: 0;
+  background: url("../images/qcode.png") no-repeat center;
+  background-size: 0.5rem 0.46875rem;
+}
+.main .step-container .input-wrap .i3 {
+  left: 0;
+  background: url("../images/mima.png") no-repeat center;
+  background-size: 0.46875rem 0.625rem;
+}
+.main .step-container .input-wrap .i4 {
+  left: 0;
+  background: url("../images/haoyou.png") no-repeat center;
+  background-size: 0.5rem 0.5625rem;
+}
+.main .step-container .input-wrap input {
+  box-sizing: border-box;
+  width: 100%;
+  height: 0.59375rem;
+  line-height: 0.59375rem;
+  border: 0 none;
+  padding-left: 0.9375rem;
+  font-size: 0.4375rem;
+}
+.main .step-container .recom-wrap {
+  display: none;
+}
+.main .step-container .input-wrap .phonecode {
+  width: 51%;
+}
+.main .input-wrap .del {
+  position: absolute;
+  width: 0.46875rem;
+  background: url("../images/delete.png") no-repeat center;
+  background-size: 100% 0.46875rem;
+  top: 0;
+  right: 0;
+  display: none;
+}
+.main .input-wrap .del2 {
+  right: 0.78125rem;
+}
+.main .input-wrap .eye {
+  right: 0;
+  width: 0.65625rem;
+  background: url("../images/eye_63b5526.png") no-repeat center;
+  background-size: 100% 0.21875rem;
+}
+.main .input-wrap .eye-active {
+  background: url("../images/eye-active.png") no-repeat center;
+  background-size: 100% 0.3125rem;
+}
+.main .input-wrap .getcode {
+  display: inline-block;
+  width: 49%;
+  height: 1.25rem;
+  line-height: 1.25rem;
+  border-radius: 0.125rem;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  margin-top: -0.625rem;
+  background: #ff5262;
+  color: #fff;
+  text-align: center;
+  font-size: 0.5rem;
+}
+.main .recom {
+  margin-top: 0.46875rem;
+}
+.main .recom .arrow {
+  display: block;
+  width: 0.4375rem;
+  height: 0.25rem;
+  margin-top: 0.15625rem;
+  background: url("../images/arrow.png") no-repeat center;
+  background-size: 100%;
+  transition: .1s;
+  float: right;
+}
+.main .recom .active {
+  transform: rotate(180deg);
+}
+.main .protocol {
+  width: 100%;
+  height: 1.5625rem;
+  line-height: 1.5625rem;
+}
+.main .protocol input {
+  width: 0.40625rem;
+  height: 0.40625rem;
+}
+.main .btn-container {
+  padding: 0.78125rem 0;
+}
+.main .btn-container .btn {
+  display: block;
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 8.125rem;
+  height: 1.3125rem;
+  line-height: 1.3125rem;
+  border-radius: 0.65625rem;
+  text-align: center;
+  font-size: 0.5rem;
+  background: #bbb;
+  color: #fff;
+}
+.main .btn-container .active {
+  background: #0a9de2;
+}
+.footer {
+  width: 100%;
+  height: 1.1875rem;
+  padding: 1px 0;
+  background: #fff;
+  margin-top: 5.3125rem;
+  border-top: 1px solid #e7e7e7;
+  border-bottom: 1px solid #f8f8f8;
+}
+.footer .footer-content {
+  height: 1.1875rem;
+  text-align: center;
+}
+.footer .footer-content a {
+  color: #000;
+  font-size: 0.375rem;
+  line-height: 1.1875rem;
+}
+.footer .footer-content span {
+  margin: 0 0.125rem;
+  color: #000;
+}
