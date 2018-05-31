@@ -1,198 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96683383-c3fa-4846-8568-cbc2e2b52d47" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/bar.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/bar_line.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (0).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (1).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (10).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (11).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (12).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (13).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (14).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (15).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (16).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (17).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (18).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (19).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (2).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (20).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (21).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (22).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (23).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (24).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (25).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (26).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (27).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (28).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (29).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (3).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (30).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (31).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (32).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (33).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (34).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (35).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (36).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (37).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (38).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (39).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (4).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (40).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (41).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (42).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (43).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (44).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (45).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (46).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (47).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (48).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (49).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (5).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (50).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (51).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (52).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (53).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (54).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (55).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (56).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (57).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (58).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (59).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (6).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (60).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (61).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (62).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (63).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (64).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (65).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (66).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (67).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (68).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (69).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (7).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (70).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (71).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (72).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (73).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (74).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (75).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (76).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (8).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/images/miaov (9).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/360picture/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/1-1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/2-2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/3-3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/4-4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/4.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/5-5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/5.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/6-6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/6.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/7-7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/7.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/images/null.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/will-change.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/贝塞尔曲线.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jianGuo/静态页面.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/checkbox.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i10.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i11.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i12.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i13.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i14.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i15.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/i9.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/oldbg2-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/oldbg2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/radio.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/scrfloat.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/scrollbg.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/images/wjxstar.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/waterFall/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/download/css/download.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/download/css/download.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/download/css/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/download/download.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/download/images/app.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/download/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/download/js/common.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/css/index.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/css/index.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/css/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/css/swiper-3.3.1.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/images/banner1.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/images/banner2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/images/banner3.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/images/banner4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/images/banner5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/images/index_0.5_z_7e0b6a2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/js/common.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/js/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/js/jquery-1.8.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/index/js/swiper-3.3.1.jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/css/login.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/css/login.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/css/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/images/delete.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/images/error-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/images/eye-active.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/images/eye_63b5526.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/images/mima.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/images/phone.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/js/common.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/js/jquery-1.8.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/js/login.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/login/login.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/css/question.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/css/question.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/css/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/images/question.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/js/common.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/js/jquery-1.8.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/js/question.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/question/question.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/css/register.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/css/register.less" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/css/reset.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/arrow.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/delete.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/eye-active.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/eye_63b5526.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/haoyou.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/mima.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/phone.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/images/qcode.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/js/common.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/js/jquery-1.8.3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/js/register.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/zhenRongBaoMobile/register/register.html" afterPath="" />
-    </list>
+    <list default="true" id="96683383-c3fa-4846-8568-cbc2e2b52d47" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,15 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="22">
-                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -239,20 +48,11 @@
     <option name="height" value="803" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,18 +60,27 @@
               <item name="wkl007.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="wkl007.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="wkl007.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wkl007.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="react-ant-design" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wkl\Desktop\wkl007.github.io\react-ant-design" />
+      <recent name="C:\Users\wkl\Desktop\wkl007.github.io" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -298,33 +107,42 @@
       <workItem from="1498191887239" duration="59000" />
       <workItem from="1498192057738" duration="112000" />
       <workItem from="1516847735408" duration="91000" />
+      <workItem from="1527760060847" duration="191000" />
     </task>
+    <task id="LOCAL-00001" summary="新增react-ant-design">
+      <created>1527760171366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527760171366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262000" />
+    <option name="totallyTimeSpent" value="453000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="174" y="106" width="1691" height="803" extended-state="0" />
+    <frame x="394" y="198" width="1000" height="803" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19721718" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33887735" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,45 +151,29 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增react-ant-design" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增react-ant-design" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vue-music/index.html" />
-    <entry file="file://$PROJECT_DIR$/vue-music/index.html" />
     <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/zhenRongBaoMobile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jianGuo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/zhenRongBaoMobile/index.html" />
+    <entry file="file://$PROJECT_DIR$/jianGuo/index.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="22">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
