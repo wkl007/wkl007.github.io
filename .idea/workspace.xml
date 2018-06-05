@@ -110,6 +110,7 @@
       <workItem from="1527760060847" duration="191000" />
       <workItem from="1527760537851" duration="133000" />
       <workItem from="1527760679408" duration="835000" />
+      <workItem from="1528017417717" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="新增react-ant-design">
       <created>1527760171366</created>
@@ -139,11 +140,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527762370182</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新">
+      <created>1528017437038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528017437038</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1421000" />
+    <option name="totallyTimeSpent" value="1631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="320" y="190" width="1000" height="803" extended-state="0" />
