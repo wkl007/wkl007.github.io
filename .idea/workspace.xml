@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96683383-c3fa-4846-8568-cbc2e2b52d47" name="Default" comment="" />
+    <list default="true" id="96683383-c3fa-4846-8568-cbc2e2b52d47" name="Default" comment="更新vue-sell">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -11,13 +13,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1786441538">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/vue-sell/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="247">
+              <caret column="600" lean-forward="true" selection-start-column="600" selection-end-column="600" />
             </state>
           </provider>
         </entry>
@@ -32,6 +69,7 @@
       <list>
         <option value="$PROJECT_DIR$/vue-music/index.html" />
         <option value="$PROJECT_DIR$/jianGuo/index.html" />
+        <option value="$PROJECT_DIR$/vue-sell/index.html" />
       </list>
     </option>
   </component>
@@ -42,16 +80,20 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
-    <option name="y" value="163" />
+    <option name="x" value="422" />
+    <option name="y" value="188" />
     <option name="width" value="1000" />
-    <option name="height" value="804" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -59,16 +101,10 @@
               <item name="wkl007.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="wkl007.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wkl007.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wkl007.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="react-ant-design" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -78,6 +114,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webProject\wkl007.github.io" />
+      <recent name="E:\webProject\wkl007.github.io\vue-sell" />
       <recent name="C:\Users\wkl\Desktop\wkl007.github.io\react-ant-design" />
       <recent name="C:\Users\wkl\Desktop\wkl007.github.io" />
     </key>
@@ -111,6 +149,7 @@
       <workItem from="1527760537851" duration="133000" />
       <workItem from="1527760679408" duration="835000" />
       <workItem from="1528017417717" duration="210000" />
+      <workItem from="1543672098579" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="新增react-ant-design">
       <created>1527760171366</created>
@@ -147,17 +186,30 @@
       <option name="project" value="LOCAL" />
       <updated>1528017437038</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="更新vue-sell">
+      <created>1543672163756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543672163756</updated>
+    </task>
+    <task id="LOCAL-00007" summary="更新vue-sell">
+      <created>1543672496530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1543672496530</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1631000" />
+    <option name="totallyTimeSpent" value="2206000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="320" y="190" width="1000" height="803" extended-state="0" />
-    <editor active="true" />
+    <frame x="177" y="134" width="800" height="643" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33887735" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.289267" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -211,7 +263,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增react-ant-design" />
     <MESSAGE value="更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+    <MESSAGE value="更新vue-sell" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新vue-sell" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/vue-music/index.html" />
@@ -219,6 +272,11 @@
     <entry file="file://$PROJECT_DIR$/zhenRongBaoMobile/index.html" />
     <entry file="file://$PROJECT_DIR$/jianGuo/index.html" />
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="22">
@@ -227,9 +285,18 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="114">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue-sell/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret column="600" lean-forward="true" selection-start-column="600" selection-end-column="600" />
         </state>
       </provider>
     </entry>
