@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["menu2"],{dbb3:function(e,n,t){"use strict";t.r(n);var l={name:"Menu2"},u=t("6691"),a=Object(u.a)(l,(function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("el-alert",{attrs:{closable:!1,title:"menu 2"}})],1)}),[],!1,null,null,null);n.default=a.exports}}]);

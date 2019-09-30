@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["menu1-1"],{"91b3":function(e,n,t){"use strict";t.r(n);var l={name:"Menu1-1"},u=t("6691"),a=Object(u.a)(l,(function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("el-alert",{attrs:{closable:!1,title:"menu 1-1"}})],1)}),[],!1,null,null,null);n.default=a.exports}}]);

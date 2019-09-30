@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["menu1-2"],{"55cd":function(e,t,n){"use strict";n.r(t);var l={name:"Menu1-2"},u=n("6691"),r=Object(u.a)(l,(function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("el-alert",{attrs:{closable:!1,title:"menu 1-2"}},[t("router-view")],1)],1)}),[],!1,null,null,null);t.default=r.exports}}]);

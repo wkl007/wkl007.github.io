@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["redirect"],{ef3c:function(e,r,t){"use strict";t.r(r),t("34a3");var n={name:"Redirect",created:function(){var e=this.$route,r=e.params,t=e.query,n=r.path;this.$router.replace({path:"/"+n,query:t})},render:function(e){return e()}},a=t("6691"),u=Object(a.a)(n,void 0,void 0,!1,null,null,null);r.default=u.exports}}]);
